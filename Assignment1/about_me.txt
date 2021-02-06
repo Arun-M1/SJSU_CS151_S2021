@@ -1,0 +1,10 @@
+My name is Arun Murugan.
+my student ID is 013151788.
+My major is Computer Science.
+My preferred email is arun.murugan@sjsu.edu.
+I am an undergraduate in my third year.
+I am not a graduating senior.
+I am not repeating the class.
+I have not completed any CS courses at SJSU, They were all transfered over from CSUS.
+I am a slow programmer but can understand code pretty well.
+I am interested in mostly class objects and designing class objects.
