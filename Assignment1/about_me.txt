@@ -8,4 +8,3 @@ I am not repeating the class.
 I have not completed any CS courses at SJSU, They were all transfered over from CSUS.
 I am a slow programmer but can understand code pretty well.
 I am interested in mostly class objects and designing class objects.
-I am testing pull request.
