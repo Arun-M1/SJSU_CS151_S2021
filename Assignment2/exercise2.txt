@@ -1,0 +1,3 @@
+int is a primitive data type. Because of this, it has less flexibility since it only able to take in a binary value of an integer. It does not have special capabilities but is faster to work with.
+
+Integer is a wrapper class which allows us more flexibility. It has the ability to convert int to String and vice versa. The Integer class also comes with other methods that int variables do not come with, which allows us to gain access to more information of ints such as conversion between doubles, floats, byte values, long values, and comparisons between ints. The downside of the Integer class is that it takes up more resources due to having all these functions. 
